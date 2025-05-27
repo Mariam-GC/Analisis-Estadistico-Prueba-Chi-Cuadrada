@@ -7,6 +7,10 @@ Esta aplicación web interactiva permite realizar la **Prueba Chi-Cuadrada de In
 
 > 🧪 Ideal para comprobar si dos variables categóricas están relacionadas entre sí, como en estudios educativos, sociales, laborales, de salud, etc.
 
+## 📸 Vista previa de la aplicación
+
+![Vista previa de la aplicación Chi-Cuadrada](chi-cuadrada-app-preview.png)
+
 ## ✨ Funcionalidades
 
 - 📐 **Configuración flexible** de filas y columnas.
