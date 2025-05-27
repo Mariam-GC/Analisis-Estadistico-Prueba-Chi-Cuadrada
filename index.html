@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <title>Prueba de Chi Cuadrada</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <body>
+  <header class="encabezado">
+    <img src="Escudo_Universidad_Autónoma_de_Chihuahua.png" alt="Logo de la página" class="logo">
+    <h1>Prueba de Chi Cuadrada de Independencia</h1>
+  </header>
+  <div class="contenedor">
+    <p>Ingresa la cantidad de filas (categorías de renglón) y columnas (categorías de columna), luego presiona "Generar tabla".</p>
+
+    <label for="filas">Número de filas:</label>
+    <input type="number" id="filas" value="3" min="2">
+
+    <label for="columnas">Número de columnas:</label>
+    <input type="number" id="columnas" value="3" min="2">
+
+    <button onclick="generarFormulario()">Generar tabla</button>
+
+    <div id="formulario"></div>
+    <div id="tablaObservados"></div>
+    <div id="resultado"></div>
+    <div id="graficoChi" style="margin-top: 30px;"></div>
+  </div>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/jstat/1.9.5/jstat.min.js"></script>
+  <script src="script.js"></script>
+  <!-- Librería de Plotly -->
+   <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+  <footer>
+  <img src="MarcaPersonalMariam.jpg" alt="Logo de Luz Mariam" class="logo-footer"><br>
+  Luz Mariam García Castillo
+</footer>
+</body>
+</html>
