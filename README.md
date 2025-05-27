@@ -1,8 +1,6 @@
 
 # 📊 Prueba de Chi Cuadrada de Independencia
 
-![Banner del proyecto](https://fakeimg.pl/900x250/6a1b9a/fff/?text=Chi-Cuadrada%20WebApp&font=lobster)
-
 ## 🎯 Descripción
 
 Esta aplicación web interactiva permite realizar la **Prueba Chi-Cuadrada de Independencia** a través de una tabla de contingencia completamente **personalizable**, con cálculos automáticos, retroalimentación estadística y visualización gráfica.
