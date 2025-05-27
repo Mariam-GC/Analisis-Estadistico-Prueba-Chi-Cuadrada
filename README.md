@@ -1,5 +1,6 @@
 
 # 📊 Prueba de Chi Cuadrada de Independencia
+## Link de prueba: https://mariam-gc.github.io/Analisis-Estadistico-Prueba-Chi-Cuadrada/
 
 ## 🎯 Descripción
 
